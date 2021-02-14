@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24e9a1ab-b9e9-4ba0-98dc-bf0e8ac2dfd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1oAD26F6BTUkLLxzFCSTHGDMNoR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="Feature: googleSearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/googleSearch.feature" />
+      <option name="GLUE" value="com.googleSearch.stepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Lodgify_Test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: googleSearch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Lodgify_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lodgify.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lodgify.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.lodgify.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber java.Feature: googleSearch" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24e9a1ab-b9e9-4ba0-98dc-bf0e8ac2dfd0" name="Default Changelist" comment="" />
+      <created>1612720290686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612720290686</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="430" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612721552620">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="430" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1612721552620" />
+    <state width="1291" height="252" key="GridCell.Tab.0.bottom" timestamp="1613341137975">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1291" height="252" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
+    <state width="1291" height="252" key="GridCell.Tab.0.center" timestamp="1613341137975">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1291" height="252" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
+    <state width="1291" height="252" key="GridCell.Tab.0.left" timestamp="1613341137975">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1291" height="252" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
+    <state width="1291" height="252" key="GridCell.Tab.0.right" timestamp="1613341137975">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="1291" height="252" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
+    <state x="178" y="83" key="SettingsEditor" timestamp="1613341286221">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="178" y="83" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1613341286221" />
+    <state x="267" y="174" key="Vcs.Push.Dialog.v2" timestamp="1613341108293">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="267" y="174" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1613341108293" />
+    <state x="382" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1613341264741">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="382" y="266" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1613341264741" />
+  </component>
+</project>

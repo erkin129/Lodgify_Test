@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Lodgify Price Search
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 101.126 s <<< FAILURE! - in Lodgify Price Search
+Price Search By Slider #1(Lodgify Price Search)  Time elapsed: 48.572 s  <<< FAILURE!
+org.junit.ComparisonFailure: Verify ultimate price expected:<5[25]> but was:<5[18]>
+
+Price Search By Slider #2(Lodgify Price Search)  Time elapsed: 24.575 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[1]> but was:<[50]>
+
