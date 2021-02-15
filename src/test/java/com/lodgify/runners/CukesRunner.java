@@ -12,7 +12,7 @@ import org.junit.runner.RunWith;
         features="src/test/resources/features",
         glue= "com/lodgify/stepDefs",
         dryRun =false,
-        tags = "@smoke"
+        tags = "@Contact"
 
 )
 public class CukesRunner {

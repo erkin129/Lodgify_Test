@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24e9a1ab-b9e9-4ba0-98dc-bf0e8ac2dfd0" name="Default Changelist" comment="" />
+    <list default="true" id="24e9a1ab-b9e9-4ba0-98dc-bf0e8ac2dfd0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lodgify/runners/CukesRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lodgify/runners/CukesRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/lodgify/stepDefs/PriceSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/lodgify/stepDefs/PriceSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/priceSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/priceSearch.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/cucumber.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/cucumber.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/default-html-reports" beforeDir="false" afterPath="$PROJECT_DIR$/target/default-html-reports" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lodgify/runners/CukesRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lodgify/runners/CukesRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/lodgify/stepDefs/PriceSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/lodgify/stepDefs/PriceSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/features/priceSearch.feature" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/features/priceSearch.feature" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Lodgify_Test" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,6 +50,24 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="Feature: contactPage" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/contactPage.feature" />
+      <option name="GLUE" value="com.lodgify.stepDefs" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="Lodgify_Test" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: contactPage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Feature: googleSearch" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/googleSearch.feature" />
@@ -72,6 +104,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.CukesRunner" />
+        <item itemvalue="Cucumber java.Feature: contactPage" />
         <item itemvalue="Cucumber java.Feature: googleSearch" />
       </list>
     </recent_temporary>
@@ -106,22 +139,22 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="430" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1612721552620" />
-    <state width="1291" height="252" key="GridCell.Tab.0.bottom" timestamp="1613341137975">
+    <state width="1326" height="254" key="GridCell.Tab.0.bottom" timestamp="1613404235647">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1291" height="252" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
-    <state width="1291" height="252" key="GridCell.Tab.0.center" timestamp="1613341137975">
+    <state width="1326" height="254" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1613404235647" />
+    <state width="1326" height="254" key="GridCell.Tab.0.center" timestamp="1613404235647">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1291" height="252" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
-    <state width="1291" height="252" key="GridCell.Tab.0.left" timestamp="1613341137975">
+    <state width="1326" height="254" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1613404235647" />
+    <state width="1326" height="254" key="GridCell.Tab.0.left" timestamp="1613404235647">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1291" height="252" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
-    <state width="1291" height="252" key="GridCell.Tab.0.right" timestamp="1613341137975">
+    <state width="1326" height="254" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1613404235647" />
+    <state width="1326" height="254" key="GridCell.Tab.0.right" timestamp="1613404235647">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state width="1291" height="252" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1613341137975" />
+    <state width="1326" height="254" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1613404235647" />
     <state x="178" y="83" key="SettingsEditor" timestamp="1613341286221">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
@@ -130,9 +163,9 @@
       <screen x="0" y="0" width="1368" height="872" />
     </state>
     <state x="267" y="174" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1613341108293" />
-    <state x="382" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1613341264741">
+    <state x="382" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1613401344981">
       <screen x="0" y="0" width="1368" height="872" />
     </state>
-    <state x="382" y="266" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1613341264741" />
+    <state x="382" y="266" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1613401344981" />
   </component>
 </project>

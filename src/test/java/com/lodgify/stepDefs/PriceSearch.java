@@ -17,7 +17,7 @@ public class PriceSearch {
 
     @Given("User is on the Lodgify pricing page")
     public void user_is_on_the_lodgify_pricing_page() {
-        Driver.get().get(ConfigurationReader.get("url"));
+        Driver.get().get(ConfigurationReader.get("url_price"));
     }
 
     @When("User move Number of Results slider from {int} to {int}")
