@@ -374,4 +374,16 @@ public class BrowserUtilities {
     }
 
 
+
+    public static void switchToIframe(WebElement iframe) {
+
+
+        Driver.get().switchTo().frame(iframe);
+
+
+
+    }
+
+
+
 }
